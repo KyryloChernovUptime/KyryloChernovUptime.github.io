@@ -4,15 +4,15 @@
     "details": [
       {
         "appID": "N6XV3QX479.com.donortap.paymentterminal.dev",
-        "paths": ["/hub/ios_dev/*"]
+        "paths": ["https://kyrylochernovuptime.github.io/invite"]
       },
       {
         "appID": "N6XV3QX479.com.donortap.paymentterminal.uat",
-        "paths": ["/hub/ios_dev/*"]
+        "paths": ["https://kyrylochernovuptime.github.io/invite"]
       },
       {
         "appID": "N6XV3QX479.com.donortap.paymentterminal.release",
-        "paths": ["/hub/ios_dev/*"]
+        "paths": ["https://kyrylochernovuptime.github.io/invite"]
       }
     ]
   }
