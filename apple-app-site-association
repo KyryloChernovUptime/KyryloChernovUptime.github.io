@@ -5,19 +5,19 @@
       {
         "appID": "N6XV3QX479.com.donortap.paymentterminal.dev",
         "paths": [
-          "/invite"
+          "/invite?"
         ]
       },
       {
         "appID": "N6XV3QX479.com.donortap.paymentterminal.uat",
         "paths": [
-          "/invite"
+          "/invite?"
         ]
       },
       {
         "appID": "N6XV3QX479.com.donortap.paymentterminal.release",
         "paths": [
-          "/invite"
+          "/invite?"
         ]
       }
     ]
