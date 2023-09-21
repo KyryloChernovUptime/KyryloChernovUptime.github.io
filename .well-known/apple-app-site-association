@@ -4,15 +4,24 @@
     "details": [
       {
         "appID": "N6XV3QX479.com.donortap.paymentterminal.dev",
-        "paths": ["https://kyrylochernovuptime.github.io/invite"]
+        "paths": ["https://kyrylochernovuptime.github.io/invite",
+        "NOT https://kyrylochernovuptime.github.io"
+			
+	]
       },
       {
         "appID": "N6XV3QX479.com.donortap.paymentterminal.uat",
-        "paths": ["https://kyrylochernovuptime.github.io/invite"]
+        "paths": ["https://kyrylochernovuptime.github.io/invite",
+        "NOT https://kyrylochernovuptime.github.io"
+			
+	]
       },
       {
         "appID": "N6XV3QX479.com.donortap.paymentterminal.release",
-        "paths": ["https://kyrylochernovuptime.github.io/invite"]
+        "paths": ["https://kyrylochernovuptime.github.io/invite",
+        "NOT https://kyrylochernovuptime.github.io"
+			
+	]
       }
     ]
   }
