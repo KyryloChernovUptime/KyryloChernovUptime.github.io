@@ -4,21 +4,15 @@
     "details": [
       {
         "appID": "N6XV3QX479.com.donortap.paymentterminal.dev",
-        "paths": [
-          "/invite?"
-        ]
+        "paths": ["/hub/ios_dev/*"]
       },
       {
         "appID": "N6XV3QX479.com.donortap.paymentterminal.uat",
-        "paths": [
-          "/invite?"
-        ]
+        "paths": ["/hub/ios_dev/*"]
       },
       {
         "appID": "N6XV3QX479.com.donortap.paymentterminal.release",
-        "paths": [
-          "/invite?"
-        ]
+        "paths": ["/hub/ios_dev/*"]
       }
     ]
   }
